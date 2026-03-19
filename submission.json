@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful conceptual illustration showing the impact of rising global temperatures. A human figure stands in the center, half of the body healthy and natural, the other half cracked, dry, and burning due to extreme heat. The background transitions from a lush green forest to a barren desert with intense sunlight. No charts, no graphs, no text, no labels. Emotional, symbolic, cinematic composition.",
+  "model": "DALL·E 3",
+  "dataset_name": "NASA Global Surface Temperature Data",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Rising global temperatures are severely damaging the environment and human life"
+}
